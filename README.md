@@ -1,1 +1,2 @@
-# repo1
+# Academic and Personal projects
+
